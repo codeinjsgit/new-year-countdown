@@ -1,0 +1,12 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.background-image {
+    background-image: url("new-year-celebration.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
